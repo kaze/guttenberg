@@ -1,0 +1,13 @@
+setup.py
+guttenberg_search/__init__.py
+guttenberg_search/hookspecs.py
+guttenberg_search/main.py
+guttenberg_search.egg-info/PKG-INFO
+guttenberg_search.egg-info/SOURCES.txt
+guttenberg_search.egg-info/dependency_links.txt
+guttenberg_search.egg-info/entry_points.txt
+guttenberg_search.egg-info/requires.txt
+guttenberg_search.egg-info/top_level.txt
+guttenberg_search/plugins/__init__.py
+guttenberg_search/plugins/output/__init__.py
+guttenberg_search/plugins/output/json_output.py
