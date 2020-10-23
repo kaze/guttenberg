@@ -1,4 +1,0 @@
-
-        [console_scripts]
-        guttenberg=guttenberg_search.main:cli
-    

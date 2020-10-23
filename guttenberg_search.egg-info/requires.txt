@@ -1,4 +1,0 @@
-click
-pluggy
-pygments
-requests
